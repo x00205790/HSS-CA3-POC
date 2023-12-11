@@ -14,5 +14,7 @@ spec:
       - path: /app
         pathType: ImplementationSpecific
         backend:
-          serviceName: website-service
-          servicePort: 80
+          servic:
+            name: website-service
+            port: 
+              number: 80
