@@ -20,7 +20,8 @@ data:
       <body>
         <div>
           <img height="400px" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></svg>
-          <h1>ArgoCD Rocks!</h1>
+          <h1>ArgoCD Rocks 11/12/2023!</h1>
+          <p>Version 2</p>
         </div>
       </body>
     </html>
