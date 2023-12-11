@@ -11,7 +11,7 @@ spec:
   rules:
   - http:
       paths:
-      - path: /app
+      - path: /demo
         pathType: ImplementationSpecific
         backend:
           service:
